@@ -44,15 +44,3 @@ Total price expected: £73.76
 </pre>
 --------------------------------------------
 </div>
-
-To submit the challenge, please add your solution to a private Github repo and add the following as collaborators:
-<ul>
-	<li>kunks001</li>
-	<li>neilchandler</li>
-	<li>alexfilatov</li>
-	<li>onisuzume</li>
-	<li>rajgurung</li>
-	<li>tomchipchase</li>
-	<li>paulccarey</li>
-	<li>keram</li>
-</ul>
